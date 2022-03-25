@@ -1,0 +1,28 @@
+{
+
+    "mainCfg":{
+
+        "bot_token":"",
+        "activity_name":"",
+        "serverId":""
+
+    },
+
+    "setupCfg":{
+
+        "logsChannel_id":"",
+        "verifiedRole_id":"",
+        "commandNameSetup":"setup",
+        "commandDescription":"Sets up the Verification for the Server"
+
+    },
+
+    "embedCfg":{
+
+        "title_Embed": "Verification",
+        "desc_Embed": "You may be wondering why you don't have access to the whole server, this is a Verification system to ensure no bots enter the server! \n\nIn order to gain access to the rest of the server, please click the button labeled 'Verify'.",
+        "color_Embed": "GREEN"
+
+    }
+
+}
