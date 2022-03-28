@@ -2,7 +2,6 @@
 
     "mainCfg":{
 
-        "bot_token":"",
         "activity_name":"",
         "serverId":""
 
